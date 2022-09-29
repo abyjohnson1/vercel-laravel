@@ -119,6 +119,9 @@
                             <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
                                 Sponsor
                             </a>
+                               <a href="{{url('/')}}" class="ml-1 underline">
+                                Home
+                            </a>
                         </div>
                     </div>
 
