@@ -22,6 +22,6 @@
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "array",
-        "APP_KEY":"base64:qBe3O1V8J3BAQcusle56DWwaO7Q0nS09EVF1UguQpwA=",
+        "APP_KEY":"base64:qBe3O1V8J3BAQcusle56DWwaO7Q0nS09EVF1UguQpwA="
     }
 }
